@@ -1,2 +1,8 @@
 # GitHub-demo
-This is for demo class.
+This is GitHub demo class.
+
+# teacher
+saurabh maurya
+
+# student
+saty shry
