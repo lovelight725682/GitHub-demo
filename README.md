@@ -5,4 +5,4 @@ This is GitHub demo class.
 saurabh maurya
 
 # student
-saty shry
+satya shry
